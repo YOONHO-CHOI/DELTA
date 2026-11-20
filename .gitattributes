@@ -1,0 +1,8 @@
+reference/public_data/** text eol=lf
+experiments/plism_analysis/** text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf

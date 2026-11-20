@@ -1,0 +1,21 @@
+backbone,model_id,revision,feature_rule,feature_dim,notes
+original_uni,MahmoodLab/uni,b55a5ec6cade1a39edfe6534189a9b8ca7a022f0,official ViT-L/16 CLS token,1024,weight SHA256 56ef09b44a25dc5c7eedc55551b3d47bcd17659a7a33837cf9abc9ec4e2ffb40
+phikonv2,owkin/phikon-v2,2ae989a9c40cffaa27f0a6cb29cc94d1d6f9a5fd,"concat CLS token and mean patch tokens",2048,Owkin non-commercial license
+ciga,ozanciga/self-supervised-histopathology,d49af3fbcdf970bdcbb7e95b5e7f406b18a257f1,official tenpercent ResNet-18 penultimate global feature,512,
+hipt,mahmoodlab/HIPT,780fafaed2e5b112bc1ed6e78852af1fe6714342,official ViT-256/16 CLS global feature,384,
+retccl,Xiyue-Wang/RetCCL,a85b97226b62853b64143e8d535f5e10dae6cc89,official RetCCL ResNet-50 penultimate global feature,2048,weight mirror was separately pinned
+ctranspath,Xiyue-Wang/TransPath,26c61940312dbb239351eff46fe08c884e9e5c3e,official CTransPath conv-stem Swin-T global feature,768,
+kaiko_vitb8,kaiko-ai/towards_large_pathology_fms,bfcde171e2003e862f9f821226788da9ee571a13,official PyTorch-Hub ViT-B/8 global feature,768,
+virchow,paige-ai/Virchow,19eebc84ae33e79f1b2d866e6ff90ae50e522f9a,concat CLS token and mean patch tokens,2560,
+beph,Zhcyoung/BEPH,ae783bdaf4c78bb639ba192d4331101c0f5e695b,official BEiTv2 ViT-Base backbone global feature,768,
+conch,MahmoodLab/CONCH,f9ca9f877171a28ade80228fb195ac5d79003357,encode_image with proj_contrast false and normalize false,512,universal centered Euclidean DELTA projection
+virchow2,paige-ai/Virchow2,3158645804b69e3f3bc4439d4116edddf0840a72,concat CLS token and mean patch tokens after four register tokens,2560,
+conchv15,MahmoodLab/conchv1_5,3e5766a5d1500d53c73c03005e24c30c1f27be13,official 448px ViT-L/16 CLS token,1024,
+uni2h,MahmoodLab/UNI2-h,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,official ViT-H/14 CLS token,1536,
+hoptimus0,bioptimus/H-optimus-0,b145cc1e6c6b30d3251aa8b1f844e6974188a743,official ViT-G/14 CLS token,1536,
+h0mini,bioptimus/H0-mini,5b5cc0505d19ae558270045eb0df8c34df4d9609,official recommended CLS token,768,
+gpfm,majiabo/GPFM,c2e0c6c7cea4d7ae67151c3375d780712f82254e,official ViT-L/14 DINOv2 global feature,1024,
+gigapath,prov-gigapath/prov-gigapath,eba85dd46097c3eedfcc2a3a9a930baecb6bcc19,official Prov-GigaPath tile encoder global feature,1536,
+exaonepath25,LGAI-EXAONE/EXAONE-Path-2.5,bd84b02f400848a04badaf2bb59c86cf38770686,official patch embedding component,768,
+moozy_patch,1aurent/vit_small_patch8_224.lunit_dino,c23bc01cfbe022bc1f2a8a9306125a07818e4eb4,MOOZY-declared Lunit DINO ViT-S/8 patch encoder global feature,384,parent AtlasAnalyticsLab/MOOZY revision cb117d58a03e19c82b13f34e386397d3042c84f4
+musk,xiangjx/musk,de1ffed28608c197d2903f6fa42b491a3fbf0fb8,384px global vision CLS with official flags,2048,code revision 714b666969c1911e5efe70d991140a21030f4ef3

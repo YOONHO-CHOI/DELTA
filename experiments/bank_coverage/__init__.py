@@ -1,0 +1,1 @@
+"""Bank-sampling coverage assessment."""

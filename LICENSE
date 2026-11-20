@@ -1,0 +1,44 @@
+DELTA - proprietary software and patent notice
+
+Copyright (c) 2026 the applicable DELTA copyright holders.
+All rights reserved.
+
+Permission is not granted to use, execute, copy, reproduce, modify, adapt,
+create derivative works from, redistribute, sublicense, incorporate into other
+software, or commercially exploit the original DELTA software or documentation
+without prior written authorization from the applicable rights holders.
+These restrictions apply to commercial and noncommercial activities, including
+research, modified versions and incorporation into products or services.
+
+Commercial use without a separate written license from the authorized rights
+holders is prohibited. Commercial licenses may be made available under a
+separate agreement. Contact the corresponding author through the contact
+information accompanying the DELTA publication for licensing enquiries.
+
+Access, source-code availability, technical instructions and examples do not
+constitute permission to run, modify or redistribute the software. Authorized
+research or commercial activities are governed by their separate written terms.
+
+Patent application notice
+
+The embedding correction method described in this repository is the subject of
+Korean patent application No. 10-2026-0205252, filed on 22 October 2026.
+International filing under the Patent Cooperation Treaty (PCT) is in progress.
+This notice does not represent that a patent has been granted.
+No express or implied patent license, covenant not to sue, or other permission
+under any patent or patent application is granted by this notice or access to
+the repository. Patent and institutional licensing rights remain reserved.
+
+Third-party software, datasets, model checkpoints, and separately identified
+materials remain subject to their own licenses and access conditions. This
+notice does not replace, revoke, or expand rights under those licenses or
+override applicable law or platform terms.
+
+This is a rights-reservation notice, not an open-source license. Nothing in
+this notice limits rights that cannot be restricted under applicable law or
+the applicable platform terms. Separate written licenses may authorize uses
+otherwise reserved here.
+
+To the extent permitted by applicable law, the software and documentation are
+provided "AS IS", without warranties of any kind. The rights holders are not
+liable for claims or damages arising from access to or use of these materials.

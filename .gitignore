@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+build/
+dist/
+
+# Data and generated artifacts are never versioned.
+data/
+inputs/
+reference/public_data/
+reference/patch_results_snapshot.json
+outputs/
+artifacts/
+checkpoints/
+*.npy
+*.npz
+*.parquet
+*.pt
+*.pth
+*.ckpt
+
+# Local configuration and credentials.
+.env
+.env.*
+!.env.example
+*.key
+*.pem
